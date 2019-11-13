@@ -6,7 +6,9 @@ Steps:
 
 1. Fork this repo
 2. Head over to repository settings
+
 ![Repostory Settings](images/Settings.png)
 
 3. Change repository name to _username_.github.io
+
 ![Change Username to publish](images/repository_rename.png)
