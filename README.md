@@ -6,4 +6,4 @@ Steps:
 
 1. Fork this repo
 2. Head over to repository settings
-3. Change repository name to username.github.io
+3. Change repository name to _username_.github.io
