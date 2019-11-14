@@ -14,7 +14,7 @@ Steps:
 ![Change Username to publish](images/repository_rename.png)
 
 -----
-Related Sources:
+### Related Sources:
 
 1. [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 2. [Everything about Git and Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
